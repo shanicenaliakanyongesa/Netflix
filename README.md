@@ -128,27 +128,7 @@ Bar chart of content ratings, showing audience appropriateness levels.
 ![Duration Histogram](https://via.placeholder.com/600x400/F9CA24/FFFFFF?text=Movie+Duration+Distribution)
 Histogram displaying the distribution of movie lengths in minutes.
 
-## 🎯 Dashboard Features
 
-The interactive dashboard provides:
-- **Dynamic Filtering**: Filter content by type (Movie/TV Show) and rating
-- **Real-time Updates**: Charts update instantly based on selected filters
-- **Hover Interactions**: Detailed information on hover
-- **Responsive Layout**: Adapts to different screen sizes
-- **Netflix Theme**: Styled with Netflix-inspired colors and fonts
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 📞 Contact
-
-For questions or suggestions, please open an issue in the repository.
-
----
+-
 
 
