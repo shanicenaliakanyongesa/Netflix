@@ -129,6 +129,6 @@ Bar chart of content ratings, showing audience appropriateness levels.
 Histogram displaying the distribution of movie lengths in minutes.
 
 
--
+
 
 
