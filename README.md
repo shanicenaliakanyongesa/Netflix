@@ -25,6 +25,14 @@ This project analyzes the Netflix dataset (`netflix_titles.csv`) to uncover insi
 - Histograms for duration distributions
 - Age distribution of content
 
+#### Key Visualizations
+![Content Type Distribution](content_type_distribution.png)
+![Top Countries](top_countries.png)
+![Rating Distribution](rating_distribution.png)
+![Release Year Trends](release_year_trends.png)
+![Duration Distributions](duration_distributions.png)
+![Content Age Distribution](content_age_distribution.png)
+
 ### 🤖 Movie Recommendation System
 - Content-based filtering using TF-IDF vectorization
 - Cosine similarity for finding similar movies
