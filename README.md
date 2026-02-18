@@ -106,28 +106,6 @@ This will output similar movies based on content similarity.
 
 ```
 
-## 📊 Key Visualizations
-
-### Content Type Distribution
-![Content Type Bar Chart](https://via.placeholder.com/600x400/FF0000/FFFFFF?text=Content+Type+Distribution)
-A bar chart showing the proportion of Movies vs. TV Shows in the Netflix catalog.
-
-### Top Countries
-![Top Countries Chart](https://via.placeholder.com/600x400/FF6B6B/FFFFFF?text=Top+Countries)
-Horizontal bar chart displaying the top 10 countries with the most Netflix content.
-
-### Release Year Trends
-![Release Year Line Plot](https://via.placeholder.com/600x400/4ECDC4/FFFFFF?text=Release+Year+Trends)
-Line plot showing content additions over the years, highlighting growth patterns.
-
-### Rating Distribution
-![Rating Distribution](https://via.placeholder.com/600x400/45B7D1/FFFFFF?text=Rating+Distribution)
-Bar chart of content ratings, showing audience appropriateness levels.
-
-### Movie Duration Histogram
-![Duration Histogram](https://via.placeholder.com/600x400/F9CA24/FFFFFF?text=Movie+Duration+Distribution)
-Histogram displaying the distribution of movie lengths in minutes.
-
 
 
 
